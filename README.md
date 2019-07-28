@@ -1,9 +1,11 @@
 # C++ Exercises 
 A collection of C++ exercises from the books:
- - Programming - Principles and Practice Using C++ 2nd edition by - [Stroustrup_Bjarne](#)
- - The C++ Programming Language by - [Stroustrup_Bjarne](#)
- - A tour of C++ by - [Stroustrup_Bjarne](#)
+ - [Programming - Principles and Practice Using C++ 2nd edition](https://www.amazon.com/Programming-Principles-Practice-Using-2nd/dp/0321992784) by - [Stroustrup_Bjarne](http://www.stroustrup.com/)
+ - [The C++ Programming Language](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840) by - [Stroustrup_Bjarne](http://www.stroustrup.com/)
+ - [A tour of C++](https://www.amazon.com/Tour-C-Depth/dp/0321958314) by - [Stroustrup_Bjarne](http://www.stroustrup.com/)
 
-Authors 
+#### Contributions
+Make all your contributions from a new branch against the [develop](#) branch.
+#### Authors 
  - [Vincent Iroleh](https://github.com/vincentiroleh)
  - [Ajaegbu Shedrack](https://github.com/Theshedman)
