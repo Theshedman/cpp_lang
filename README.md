@@ -5,7 +5,7 @@ A collection of C++ exercises from the books:
  - [A tour of C++](https://www.amazon.com/Tour-C-Depth/dp/0321958314) by - [Stroustrup_Bjarne](http://www.stroustrup.com/)
 
 #### Contributions
-Make all your contributions from a new branch against the [develop](#) branch.
+Make all your contributions from a new branch against the [master](#) branch.
 #### Authors 
  - [Vincent Iroleh](https://github.com/vincentiroleh)
  - [Ajaegbu Shedrack](https://github.com/Theshedman)
